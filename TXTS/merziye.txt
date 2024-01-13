@@ -1,0 +1,63 @@
+illegal utises
+Problem detected at line:270,UTIS:1682540
+Problem detected at line:552,UTIS:1775459
+Problem detected at line:583,UTIS:2049775
+Problem detected at line:815,UTIS:3881863
+Problem detected at line:838,UTIS:9890998
+Problem detected at line:1080,UTIS:1462180
+Problem detected at line:1126,UTIS:1500796
+Problem detected at line:1331,UTIS:2600373
+Problem detected at line:1350,UTIS:1703257
+Problem detected at line:1391,UTIS:208491
+Problem detected at line:1450,UTIS:3834885
+Problem detected at line:1654,UTIS:2779922
+Problem detected at line:1684,UTIS:2709076
+Problem detected at line:1685,UTIS:2358335
+Problem detected at line:1723,UTIS:2756248
+Problem detected at line:1949,UTIS:1538208
+Problem detected at line:2157,UTIS:2032034
+Problem detected at line:2210,UTIS:2475380
+Problem detected at line:2367,UTIS:2992073
+Problem detected at line:2595,UTIS:2570521
+Problem detected at line:2698,UTIS:2971708
+Problem detected at line:2733,UTIS:2638867
+Problem detected at line:2749,UTIS:2290015
+Problem detected at line:2840,UTIS:2838913
+Problem detected at line:2885,UTIS:1900549
+Problem detected at line:2941,UTIS:2210446
+Problem detected at line:2950,UTIS:2888560
+Problem detected at line:3063,UTIS:2886653
+Problem detected at line:3168,UTIS:2298386
+Problem detected at line:3338,UTIS:2943126
+Problem detected at line:3345,UTIS:2222223
+Problem detected at line:3350,UTIS:2011611
+Problem detected at line:3364,UTIS:2059480
+Problem detected at line:3415,UTIS:2845545
+Problem detected at line:3551,UTIS:2096709
+Problem detected at line:3645,UTIS:5652477
+Problem detected at line:3742,UTIS:3457382
+Problem detected at line:3743,UTIS:1781480
+Problem detected at line:3803,UTIS:1900776
+Problem detected at line:4354,UTIS:2141980
+Problem detected at line:4390,UTIS:2858900
+Problem detected at line:4430,UTIS:205839
+Problem detected at line:4443,UTIS:0069954
+Problem detected at line:4459,UTIS:1244648
+Problem detected at line:4496,UTIS:2600954
+Problem detected at line:4497,UTIS:1969147
+Problem detected at line:4522,UTIS:2628613
+Problem detected at line:4590,UTIS:1881845
+Problem detected at line:4651,UTIS:1910041
+Problem detected at line:4686,UTIS:2983828
+Problem detected at line:4806,UTIS:2832573
+Problem detected at line:4859,UTIS:0504198
+Problem detected at line:5050,UTIS:1549464
+Problem detected at line:5209,UTIS:2964494
+Problem detected at line:5216,UTIS:1907024
+Problem detected at line:5287,UTIS:2435570
+
+same utises
+UTIS:2329486,REPEATED:2
+UTIS:2887221,REPEATED:2
+UTIS:2104572,REPEATED:2
+UTIS:1472549,REPEATED:2

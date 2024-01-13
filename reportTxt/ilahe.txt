@@ -1,0 +1,10 @@
+Olmayan Utisler
+Problem detected at line:4249,UTIS:203611
+Problem detected at line:6428,UTIS:2328489
+Problem detected at line:7046,UTIS:1505718
+Problem detected at line:7136,UTIS:2885477
+Problem detected at line:7831,UTIS:1961415
+Surusmeler
+
+Siniflerin
+Utis:2399921;(11->09})

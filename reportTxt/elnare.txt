@@ -1,0 +1,46 @@
+Surusmeler
+Bölmə ilə əlaqəli sürüşmə tapıldı-2622253
+Bölmə ilə əlaqəli sürüşmə tapıldı-2621212
+Bölmə ilə əlaqəli sürüşmə tapıldı-1191110
+Bölmə ilə əlaqəli sürüşmə tapıldı-1191902
+Bölmə ilə əlaqəli sürüşmə tapıldı-1183035
+Bölmə ilə əlaqəli sürüşmə tapıldı-1021129
+Bölmə ilə əlaqəli sürüşmə tapıldı-2589696
+Bölmə ilə əlaqəli sürüşmə tapıldı-1105302
+Bölmə ilə əlaqəli sürüşmə tapıldı-2791633
+Bölmə ilə əlaqəli sürüşmə tapıldı-2789801
+Siniflerin serf yazanıar
+Utis:1905681;(10->11})
+Utis:1224048;(08->09})
+Utis:1770979;(10->09})
+Utis:2160845;(09->10})
+Utis:1912130;(09->10})
+Utis:2278023;(08->09})
+Utis:2901104;(07->08})
+Utis:2423365;(07->10})
+Utis:1283495;(08->11})
+Fenlerin serf yazanlar
+Utis-1905681,fenn-(A->T)       
+Utis-2878857,fenn-(R->B)
+Utis-2278023,fenn-(F->R)
+Utis-2886397,fenn-(R->F)
+Utis-1283495,fenn-(R->C)
+Bolmelerin serf yazanlar
+Utis-2622253,bolme-(I->A)
+Utis-2621212,bolme-(I->A)
+Utis-1191110,bolme-(I->A)
+Utis-1191902,bolme-(I->R)     
+Utis-1183035,bolme-(I->A)
+Utis-1021129,bolme-(I->R)
+Utis-2589696,bolme-(I->A)
+Utis-1105302,bolme-(I->A)
+Utis-2791633,bolme-( ->A)
+Utis-2878857,bolme-(R->A)
+Utis-2434278,bolme-(R->A)
+Utis-2789801,bolme-(I->A)
+Utis-1995986,bolme-(R->A)
+Utis-2135482,bolme-(R->A)
+Utis-2936736,bolme-(R->A)
+Utis-2019650,bolme-(R->A)
+Utis-2423291,bolme-(R->A)
+Utis-1069920,bolme-(R->A)

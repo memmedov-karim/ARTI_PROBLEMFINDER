@@ -1,0 +1,103 @@
+Illegal utises
+
+
+Problem detected at line:105,UTIS:2244000
+Problem detected at line:148,UTIS:1635626
+Problem detected at line:236,UTIS:0973503
+Problem detected at line:369,UTIS:1962926
+Problem detected at line:507,UTIS:0611132
+Problem detected at line:639,UTIS:1496893
+Problem detected at line:694,UTIS:0505540
+Problem detected at line:800,UTIS:7393895
+Problem detected at line:1073,UTIS:109 949
+Problem detected at line:1130,UTIS:1659756
+Problem detected at line:1488,UTIS:2759922
+Problem detected at line:1527,UTIS:2511294
+Problem detected at line:1571,UTIS:2831787
+Problem detected at line:1668,UTIS:282860
+Problem detected at line:1886,UTIS:2375379
+Problem detected at line:1940,UTIS:1515799
+Problem detected at line:2336,UTIS:2811297
+Problem detected at line:2376,UTIS:278513
+Problem detected at line:2455,UTIS:1827033
+Problem detected at line:2954,UTIS:2816080
+Problem detected at line:3175,UTIS:0323523
+Problem detected at line:3401,UTIS:0323967
+Problem detected at line:3438,UTIS:1027803
+Problem detected at line:3614,UTIS:0447129
+Problem detected at line:3706,UTIS:0770427
+Problem detected at line:3986,UTIS:2790761
+Problem detected at line:4020,UTIS:1600752
+Problem detected at line:4135,UTIS:111986
+Problem detected at line:4266,UTIS:1403814
+Problem detected at line:4296,UTIS:2769272
+Problem detected at line:4375,UTIS:3949669
+Problem detected at line:4451,UTIS:2872163
+Problem detected at line:4699,UTIS:2991381
+Problem detected at line:4811,UTIS:2246811
+Problem detected at line:4872,UTIS:1022133
+Problem detected at line:4920,UTIS:1579071
+Problem detected at line:4963,UTIS:2170038
+Problem detected at line:5268,UTIS:0020558
+Problem detected at line:5327,UTIS:2652824
+Problem detected at line:5399,UTIS:2394901
+Problem detected at line:5542,UTIS:386198
+Problem detected at line:5889,UTIS:2052185
+Problem detected at line:5943,UTIS:175623
+Problem detected at line:5947,UTIS:1126882
+Problem detected at line:6110,UTIS:1375027
+Problem detected at line:6382,UTIS:2939080
+Problem detected at line:6415,UTIS:1985905
+Problem detected at line:6534,UTIS:1363767
+Problem detected at line:6754,UTIS:2147881
+Problem detected at line:7045,UTIS:0547363
+Problem detected at line:7219,UTIS:2151467
+Problem detected at line:7762,UTIS:2008724
+Problem detected at line:8290,UTIS:1812543
+Problem detected at line:8343,UTIS:2241978
+Problem detected at line:8384,UTIS:0627064
+Problem detected at line:8490,UTIS:2233267
+Problem detected at line:8574,UTIS:2434037
+Problem detected at line:8818,UTIS:8832348
+Problem detected at line:8892,UTIS:2286237
+Problem detected at line:8933,UTIS:2256882
+Problem detected at line:9093,UTIS:2000147
+Problem detected at line:9109,UTIS:2352118
+Problem detected at line:9276,UTIS:2401681
+Problem detected at line:9382,UTIS:2504098
+Problem detected at line:9465,UTIS:2821223
+Problem detected at line:9530,UTIS:2908816
+Problem detected at line:9795,UTIS:2196629
+Problem detected at line:9830,UTIS:1599350
+Problem detected at line:9861,UTIS:1985390
+Problem detected at line:10050,UTIS:2159566
+Problem detected at line:10235,UTIS:9878935
+Problem detected at line:10264,UTIS:3878685
+Problem detected at line:10283,UTIS:3476047
+Problem detected at line:10324,UTIS:2918077
+Problem detected at line:10454,UTIS:280852
+Problem detected at line:10599,UTIS:2800472
+Problem detected at line:10629,UTIS:2722748
+Problem detected at line:11328,UTIS:1994071
+Problem detected at line:11386,UTIS:2176600
+Problem detected at line:11464,UTIS:207355
+Problem detected at line:11629,UTIS:3873602
+Problem detected at line:11665,UTIS:1683758
+Problem detected at line:11687,UTIS:0982618
+Problem detected at line:11782,UTIS:2855600
+Problem detected at line:11875,UTIS:184496
+Problem detected at line:12249,UTIS:2969653
+Problem detected at line:12524,UTIS:1816074
+Problem detected at line:12530,UTIS:177100
+Problem detected at line:12581,UTIS:1900711
+Problem detected at line:12852,UTIS:2387142
+
+
+repeating utises
+UTIS:1003506,REPEATED:2
+UTIS:2076101,REPEATED:2
+UTIS:1019338,REPEATED:2
+UTIS:1992733,REPEATED:2
+UTIS:1581452,REPEATED:2
+UTIS:2785715,REPEATED:2
+UTIS:1445852,REPEATED:2

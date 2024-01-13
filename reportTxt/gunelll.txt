@@ -1,0 +1,13 @@
+Sinifin serf yazan
+Utis:2779526;(09->08})
+Bolmesi serf olanlar
+Utis-1330152,bolme-(R->A)
+Utis-2737784,bolme-(R->A)
+Utis-2737662,bolme-(R->A)
+Utis-1417399,bolme-(R->A)
+Utis-2508765,bolme-(R->A)
+Utis-2913441,bolme-(R->A)
+Utis-1900234,bolme-(R->A)
+Fenn ser yazanlar
+Utis-1322341,fenn-(A->R)
+Utis-1265187,fenn-(A->R)

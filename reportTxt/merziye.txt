@@ -1,0 +1,9 @@
+Problemli Utisler
+Problem detected at line:4858,UTIS:0504198
+Surusmeler
+Fənn ilə əlaqəli sürüşmə tapıldı-2104460
+Fənn ilə əlaqəli sürüşmə tapıldı-2346860
+Siniflerin
+Utis:2952095;(28->08})
+Bolmelerin
+Utis-2346860,bolme-(R->A)
